@@ -1,0 +1,18 @@
+.navbar-brand {
+  font-family: "Righteous", cursive;
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #777777;
+}
+
+.col-md-6 {
+  height: 350px;
+  border: 0;
+  margin: 70px auto;
+}
+
+form input {
+  margin: auto;
+}
